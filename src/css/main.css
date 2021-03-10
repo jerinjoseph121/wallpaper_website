@@ -1,0 +1,34 @@
+#titleSection {
+  max-width: 100%;
+  background-color: #77685d;
+}
+#mainTitle {
+  text-align: center;
+  color: #483d3f;
+  font-family: Mistral;
+  font-size: 100px;
+}
+
+.logoutPrompt {
+  text-decoration: None !important;
+  color: #f4ebd9;
+  font-family: "Freestyle Script";
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 50px;
+}
+#mainSection {
+  background-color: #a39a92;
+}
+#sideSection {
+  background-color: #f4ebd9;
+  color: #058ed9;
+  font-family: "Freestyle Script";
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.Lists {
+  padding-right: 25px;
+  padding-left: 25px;
+}

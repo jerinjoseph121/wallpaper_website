@@ -1,0 +1,53 @@
+#titleSection {
+  max-width: 100%;
+  background-color: #77685d;
+}
+#mainTitle {
+  text-align: center;
+  color: #483d3f;
+  font-family: Mistral;
+  font-size: 100px;
+}
+#mainSection {
+  background-color: #a39a92;
+  height: 100%;
+  margin: 0;
+}
+.card {
+  background-color: #f4ebd9 !important;
+  font-family: "Freestyle Script";
+  margin: 50px;
+  color: #058ed9;
+}
+.card-title {
+  text-align: center;
+  font-size: 75px;
+}
+.card-body {
+  font-size: 35px;
+}
+.form-text {
+  margin: 0;
+  padding: 0;
+
+  font-size: 20px;
+}
+.form-control {
+  font-family: "Times New Roman", Times, serif;
+}
+.submitLogin {
+  background-color: #a39a92 !important;
+  color: white !important;
+  display: block !important;
+  font-size: 40px !important;
+  width: 100px;
+  margin-left: auto;
+  margin-right: 0;
+}
+.linkSignup {
+  display: block;
+  width: 53px;
+  margin: auto;
+  margin-top: 10%;
+  text-decoration: None !important;
+}
